@@ -4,13 +4,12 @@ CampusFlow is a university event scheduling system that helps organize project s
 
 Team Members
 
-Name| Role
-Abdelrahman Hany| Team Leader
-Kerollos Romany| Team Member
-Mina Maher| Team Member
-Samuel Mokhles| Team Member
-Mathew Ashraf| Team Member
-Marwan Mohammed| Team Member
+- Abdelrahman Hany — Team Leader
+- Kerollos Romany — Team Member
+- Mina Maher — Team Member
+- Samuel Mokhles — Team Member
+- Mathew Ashraf — Team Member
+- Marwan Mohammed — Team Member
 
 Contact
 
